@@ -6,6 +6,9 @@ The project is dealing with the student management system.
 - Used Laravel Eloquent Relations
 - Used Laravel -7 for the project
 - Optimized table structure
+-  Should insert the table genders,teachers,terms
+-  According to your convinence you can add your dynamic values for the tables genders,teachers,terms
+ 
 
 
 ## Details Of Project
